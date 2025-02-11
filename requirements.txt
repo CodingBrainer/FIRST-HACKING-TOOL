@@ -1,0 +1,8 @@
+nmap
+hydra
+nmcli
+arp-scan
+blat
+telnet
+powershell
+wmic
